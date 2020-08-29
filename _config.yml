@@ -1,4 +1,4 @@
-theme: jekyll-theme-textalic
+theme: minima
 include: [".well-known", ".well-known/brave-rewards-verification.txt"]
 title: Конста Суомалайнен - Вибрані Твори
 description: Особиста сторінка Костянтина "Консти" Суомалайнена з оповіданнями та фотографіями
