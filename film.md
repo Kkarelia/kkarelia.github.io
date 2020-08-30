@@ -1,2 +1,2 @@
-
-[Боржава](/img/mountain.jpg)
+[Назад](/index.md)
+![Боржава](/img/mountain.jpg)
