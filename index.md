@@ -6,6 +6,7 @@
   - [Чорний Чайник](/texts/blackk.md)
 - Фотографії
   - [Плівка](/film.md)
+  
 -----
   
   #### [ENGLISH](/index_e.md)
