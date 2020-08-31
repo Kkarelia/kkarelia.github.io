@@ -2,6 +2,8 @@
 
 ## Black Kettle
 
+*This text is not a professional translation, but author's original writing, which is not perectly correct English, unfortunately...*
+
 ![Snowshoer in the winter mountains](/img/blackk.png)
 
  A man on snowshoes was threading his way up the slope of the mountain between short spruce trees. The snow on the ground was four feet deep, making those spruces look even shorter. He was carrying a heavy backpack, a carbine on a short sling was hanging on his neck in front of him. The man’s thick winter clothing has been hidden under a dirty white camouflage robe. The gun and other gear was wrapped into pieces of white cloth, also dirty and ragged. He had a single pole in his left hand and he was thrusting it vigorously into the snow with each heavy step. 
