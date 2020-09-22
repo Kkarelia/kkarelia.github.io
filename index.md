@@ -6,7 +6,7 @@
   - [Чорний Чайник](/texts/blackk.md)
 - Фотографії
   - [Плівка](/film.md)
-  - [Instagram] (https://www.instagram.com/trailfarer/)
+  - [Instagram](https://www.instagram.com/trailfarer/)
   
 -----
   
