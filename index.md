@@ -4,6 +4,7 @@
 
 - Оповідання
   - [Чорний Чайник](/texts/blackk.md)
+  - [Навала](/texts/infest.md)
 - Фотографії
   - [Плівка](/film.md)
   - [Instagram](https://www.instagram.com/trailfarer/)
