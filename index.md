@@ -9,7 +9,7 @@
 - Фотографії
   - [Instagram](https://www.instagram.com/trailfarer/)
 - Технічна документація
-  - [Рація AT-D878 UV II Plus] (/texts/anytone.md)
+  - [Рація AT-D878 UV II Plus](/texts/anytone.md)
   
 -----
   
