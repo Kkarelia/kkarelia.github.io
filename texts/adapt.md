@@ -48,7 +48,7 @@ Hostes Humani Generis будем ми
 Там, де золотом грає струмок\
 Тебе я покину, я покину\
 Не час для мрійливих думок
-
+\
 
 #### Hinech Yafa / Light in Babylon
 \
