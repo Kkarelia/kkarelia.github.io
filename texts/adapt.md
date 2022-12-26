@@ -2,7 +2,7 @@
 
 ## Переклади або адаптації українською мовою пісень або віршів
 
-### Parting Song aka Hostis Humani Generis / Ye Banished Privateers
+#### Parting Song aka Hostis Humani Generis / Ye Banished Privateers
 
 Венери братерство навік розлучилось\
 Наче мертві лежать під столом\
