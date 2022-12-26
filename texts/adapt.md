@@ -48,7 +48,7 @@ Hostes Humani Generis будем ми
 Там, де золотом грає струмок\
 Тебе я покину, я покину\
 Не час для мрійливих думок
-\
+
 
 #### Hinech Yafa / Light in Babylon
 \
@@ -76,7 +76,7 @@ Hostes Humani Generis будем ми
 Вогнем горять вуста\
 Зустрітись знов моя мета\
 І щастя віднайти
-\
+
 
 #### Akatsuki No Ito / Waggaki Band
 \
