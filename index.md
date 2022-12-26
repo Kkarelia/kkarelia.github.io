@@ -6,6 +6,8 @@
   - [Чорний Чайник](/texts/blackk.md)
   - [Навала](/texts/infest.md)
   - [Три](/texts/trinity.md)
+- Лірика
+  - [Адаптації українською мовою] (/texts/adapt.md)
 - Фотографії
   - [Instagram](https://www.instagram.com/trailfarer/)
 - Технічна документація
