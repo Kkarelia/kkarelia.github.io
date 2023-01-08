@@ -6,6 +6,7 @@
   - [Чорний Чайник](/texts/blackk.md)
   - [Навала](/texts/infest.md)
   - [Три](/texts/trinity.md)
+  - [Маяк](/texts/lighthouse.md)
 - Лірика
   - [Адаптації українською мовою](/texts/adapt.md)
 - Фотографії
