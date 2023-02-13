@@ -7,6 +7,7 @@
   - [Навала](/texts/infest.md)
   - [Три](/texts/trinity.md)
   - [Маяк](/texts/lighthouse.md)
+  - [Рій](/texts/swarm.md)
 - Лірика
   - [Адаптації українською мовою](/texts/adapt.md)
 - Фотографії
