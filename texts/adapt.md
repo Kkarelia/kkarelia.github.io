@@ -2,6 +2,8 @@
 
 ## Переклади або адаптації українською мовою пісень або віршів
 
+![Емоційне караоке](/img/karaoke.jpg)
+
 #### Heavy / Evanescence Amy Lee & Lzzy Hale (Linkin Park ft. Kiiara cover)
 \
 Не розумію мозок свій\
