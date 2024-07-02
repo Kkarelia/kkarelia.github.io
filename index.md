@@ -10,6 +10,8 @@
   - [Рій](/texts/swarm.md)
 - Лірика
   - [Адаптації українською мовою](/texts/adapt.md)
+- Музика
+  - [Проект ABEЯRAMA](https://www.youtube.com/@aberrama)
 - Фотографії
   - [Instagram](https://www.instagram.com/trailfarer/)
 - Технічна документація
