@@ -11,7 +11,7 @@
 - Photos
   - [Instagram](https://www.instagram.com/trailfarer/)
 - Music
-  - [Project ABEЯRAMA](https://www.youtube.com/@aberrama)
+  - [Project ABEЯRAMA](https://suno.com/@aberrama)
 
 -----
   
