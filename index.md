@@ -11,7 +11,7 @@
 - Лірика
   - [Адаптації українською мовою](/texts/adapt.md)
 - Музика
-  - [Проект ABEЯRAMA](https://www.youtube.com/@aberrama)
+  - [Проект ABEЯRAMA](https://suno.com/@aberrama)
 - Фотографії
   - [Instagram](https://www.instagram.com/trailfarer/)
 - Технічна документація
