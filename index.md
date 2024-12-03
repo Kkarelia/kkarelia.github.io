@@ -10,6 +10,7 @@
   - [Рій](/texts/swarm.md)
 - Лірика
   - [Адаптації українською мовою](/texts/adapt.md)
+  - [Авторське](/texts/lyrics.md)
 - Музика
   - [Проект ABEЯRAMA](https://suno.com/@aberrama)
 - Фотографії
