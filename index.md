@@ -8,6 +8,7 @@
   - [Три](/texts/trinity.md)
   - [Маяк](/texts/lighthouse.md)
   - [Рій](/texts/swarm.md)
+  - [Кині і Тікай](/texts/flower.md)
 - Лірика
   - [Адаптації українською мовою](/texts/adapt.md)
   - [Авторське](/texts/lyrics.md)
